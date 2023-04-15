@@ -1,0 +1,8 @@
+﻿  wesnoth-gold.cpp
+C:\Users\Mert\Documents\Projeler\wesnoth-gold\wesnoth-gold.cpp(92,28): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'uintptr_t'
+C:\Users\Mert\Documents\Projeler\wesnoth-gold\wesnoth-gold.cpp(156,27): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 132 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  wesnoth-gold.vcxproj -> C:\Users\Mert\Documents\Projeler\wesnoth-gold\Release\wesnoth-gold.exe
